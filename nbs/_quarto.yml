@@ -14,7 +14,7 @@ format:
     toc: true
 
 website:
-  title: "machine_learning_blog"
+  title: "Blog"
   description: "A blog about machine learning use cases"
   execute: 
     enabled: false

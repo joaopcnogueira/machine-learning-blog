@@ -1,0 +1,27 @@
+website:
+  favicon: favicon.png
+  reader-mode: false
+  navbar:
+    collapse-below: lg
+    left:
+      - text: "References"
+        href: 00a_references.ipynb
+      - text: "About me"
+        href: 00_about_me.ipynb
+      - text: "Contacts"
+        href: https://www.fast.ai/2022/07/28/nbdev-v2/
+      - text: "Help"
+        menu:
+          - text: "Report an Issue"
+            icon: bug
+            href: https://github.com/fastai/nbdev/issues
+          - text: "Fast.ai Forum"
+            icon: chat-right-text
+            href: https://forums.fast.ai/
+          - text: "FAQ"
+            icon: question-circle
+            href: getting_started.ipynb#faq
+    right:
+      - icon: twitter
+        href: https://twitter.com/joaopcnogueira
+        aria-label: Fast.ai Twitter
