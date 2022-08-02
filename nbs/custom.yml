@@ -18,9 +18,6 @@ website:
           - text: "Fast.ai Forum"
             icon: chat-right-text
             href: https://forums.fast.ai/
-          - text: "FAQ"
-            icon: question-circle
-            href: getting_started.ipynb#faq
     right:
       - icon: twitter
         href: https://twitter.com/joaopcnogueira

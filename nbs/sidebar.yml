@@ -2,4 +2,6 @@ website:
   sidebar:
     contents:
       - index.ipynb
+      - 00_about_me.ipynb
+      - 00a_references.ipynb
       - 01_o_que_e_machine_learning.ipynb
