@@ -4,4 +4,7 @@ website:
       - index.ipynb
       - 00_about_me.ipynb
       - 00a_references.ipynb
-      - 01_o_que_e_machine_learning.ipynb
+      - 00b_publications.ipynb
+      - section: Notebooks
+        contents:
+        - 01_model_probability_discretisation.ipynb
