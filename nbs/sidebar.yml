@@ -8,3 +8,4 @@ website:
       - section: Notebooks
         contents:
         - 01_model_probability_discretisation.ipynb
+        - 02_analytical_base_table.ipynb

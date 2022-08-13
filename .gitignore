@@ -1,5 +1,7 @@
 _docs/
 
+datasets/
+
 *.bak
 .gitattributes
 .last_checked
