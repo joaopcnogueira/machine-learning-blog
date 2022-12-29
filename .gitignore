@@ -1,7 +1,7 @@
 _docs/
 _proc/
 
-datasets/
+#datasets/
 
 *.bak
 .gitattributes
