@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "machine_learning_blog"
+  site-url: "https://joaopcnogueira.github.io/machine_learning_blog/"
+  description: "A blog about machine learning use cases"
+  repo-branch: main
+  repo-url: "https://github.com/joaopcnogueira/machine-learning-blog/"

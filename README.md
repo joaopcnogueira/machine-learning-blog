@@ -8,6 +8,6 @@ diversos assuntos e tópicos dentro do universo de machine learning.
 
 ## O que você encontrará
 
--   Notebooks
--   Textos
--   Recomendações de cursos, tutoriais e livros
+- Notebooks
+- Textos
+- Recomendações de cursos, tutoriais e livros

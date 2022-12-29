@@ -10,3 +10,7 @@ website:
         - 01_model_probability_discretisation.ipynb
         - 02_analytical_base_table.ipynb
         - 03_monitoring.ipynb
+      - section: Econometry
+        contents:
+        - 04_DiD_minimum_wage.ipynb
+        - 05_DiD_single_women_employment.ipynb
